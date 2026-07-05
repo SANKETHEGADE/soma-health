@@ -4,7 +4,14 @@ A personal AI health dashboard built with React, TypeScript, and Gemini AI. Trac
 
 ## Screenshots
 
-> Add screenshots of your dashboard here after deploying
+### Dashboard — Today's Metrics & 7-Day Averages
+![Dashboard](Screenshot%202026-07-05%20191502.png)
+
+### Charts — Interactive Health Trends
+![Charts](Screenshot%202026-07-05%20191520.png)
+
+### 3D Body Scanner — Click to Log Health Data
+![3D Body Scanner](Screenshot%202026-07-05%20191533.png)
 
 ---
 
