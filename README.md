@@ -1,4 +1,4 @@
-# Soma Health 🫀
+# Soma Health 
 
 A personal AI health dashboard built with React, TypeScript, and Gemini AI. Track your daily health metrics, visualize weekly trends, and get personalized health advice powered by Google Gemini.
 
