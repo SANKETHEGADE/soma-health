@@ -21,7 +21,7 @@ A personal AI health dashboard built with React, TypeScript, and Gemini AI. Trac
 - Today's health metrics at a glance — steps, heart rate, sleep, water intake, and calories
 - Progress bars showing how close you are to your daily goals
 - 7-day averages for every metric
-- Clean dark UI with color-coded metric cards
+- Clean dark UI with color-coded metric cards 
 
 ### 📈 Charts
 - Interactive area chart for any metric — steps, heart rate, sleep, water, calories
