@@ -17,25 +17,25 @@ A personal AI health dashboard built with React, TypeScript, and Gemini AI. Trac
 
 ## Features
 
-### 📊 Dashboard
+###  Dashboard
 - Today's health metrics at a glance — steps, heart rate, sleep, water intake, and calories
 - Progress bars showing how close you are to your daily goals
 - 7-day averages for every metric
 - Clean dark UI with color-coded metric cards 
 
-### 📈 Charts
+###  Charts
 - Interactive area chart for any metric — steps, heart rate, sleep, water, calories
 - Switch between metrics with one click
 - Mini trend charts for all metrics shown simultaneously
 - Smooth animations and gradient fills
 
-### 📝 Log Today
+###  Log Today
 - Simple form to log today's health data
 - Data saved to localStorage — persists across sessions
 - Color-coded input fields for each metric
 - Instant save confirmation
 
-### 🤖 AI Insights
+###  AI Insights
 - Sends your health data to Google Gemini AI
 - Returns a personalised health report including:
   - Overall health score out of 10
