@@ -107,7 +107,7 @@ soma-health/
 
 ## Environment Variables
 
-Create a `.env.local` file in the root folder:
+Create a `.env.local` file in the root folder: 
 
 ```
 VITE_GEMINI_API_KEY=your_gemini_api_key_here
